@@ -1,3 +1,3 @@
 # About
-Đây là các note của mình về Data Structure and Algorithm (DSA) và những thứ khác.  
-Hi vọng có thể giúp ích được chút xíu gì đó cho các bạn.
+Đây là các note của mình về đủ thứ linh tinh về coding.  
+Nếu bạn đi ngang qua đây, mình hi vọng có thể giúp ích được một chút xíu gì đó cho các bạn.
